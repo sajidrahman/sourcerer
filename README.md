@@ -27,7 +27,7 @@ git clone https://github.com/sajidrahman/sourcerer
 ```
 2. Copy script file **apkScan.py** and config file **config.ini** to working directory
 ```
-cp sourcerer/tool-automation/* .
+cp sourcerer/* .
 ```
 
 ## Configuration ##
