@@ -23,11 +23,11 @@
 ## Setup ##
 1. Clone repository
 ```
-git clone https://github.com/sajidrahman/SO-u-RCERER
+git clone https://github.com/sajidrahman/sourcerer
 ```
 2. Copy script file **apkScan.py** and config file **config.ini** to working directory
 ```
-cp SO-u-RCERER/tool-automation/* .
+cp sourcerer/tool-automation/* .
 ```
 
 ## Configuration ##
